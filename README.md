@@ -4,10 +4,10 @@
 # Hi 👋, I'm Nguyen Viet Dung (Windz)  
 ### A backend-focused student developer from Vietnam 🇻🇳  
 
-## Goal  
+### Goal  
 My short-term goal is to secure a Backend internship and gain real-world project experience.  
 
-## About Me  
+### About Me  
 Final-year student at **University of Transport and Communications HCMC (UTH)**.  
 Strong interest in **Backend systems, APIs, and AI integration**, with a mindset of system design and optimization.  
 
@@ -16,35 +16,37 @@ Strong interest in **Backend systems, APIs, and AI integration**, with a mindset
 ![](https://komarev.com/ghpvc/?username=Wjndz&style=flat-square)
 
 ## How to reach me
-- **LinkedIn:** [Nguyen Viet Dung](https://www.linkedin.com/in/dung-nguyen-viet-19b1371b2/)  
-- **Facebook:** [Wjnzd](https://www.facebook.com/Wjnzd/)  
-- **GitHub:** [Wjndz](https://github.com/Wjndz)  
-- **Email:** [dungnguyeen2811@gmail.com](mailto:dungnguyeen2811@gmail.com)  
-
-## Languages
 <p align="center">
+  <a href="https://www.linkedin.com/in/dung-nguyen-viet-19b1371b2/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  </a>
+  <a href="https://www.facebook.com/Wjnzd/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>
+  </a> 
+  <a href="https://github.com/Wjndz" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+  </a> 
+  <a href="mailto:dungnguyeen2811@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+  </a>
+</p>
+
+## Skills & Tools
+<p align="center">
+  <!-- Languages -->
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="48" height="48"/> 
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="python"/>
-</p>
-
-## Databases
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="mysql"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb"/>
+  <img src="https://img.icons8.com/color/48/python.png" alt="python"/>
+  <!-- Databases -->
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
   <img src="https://img.icons8.com/color/48/postgreesql.png" alt="postgresql"/>
-</p>
-
-## Frameworks & Libraries
-<p align="center">
+  <!-- Frameworks & Libraries -->
   <img src="https://img.icons8.com/color/48/spring-logo.png" alt="spring boot"/>
   <img src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
   <img src="https://img.icons8.com/color/48/tensorflow.png" alt="tensorflow"/>
   <img src="https://img.icons8.com/color/48/opencv.png" alt="opencv"/>
-</p>
-
-## Tools
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git"/>
+  <!-- Tools -->
+  <img src="https://img.icons8.com/color/48/git.png" alt="git"/>
   <img src="https://img.icons8.com/?size=48&id=EPbEfEa7o8CB&format=png" alt="postman"/>
   <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="github" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="vscode"/>
