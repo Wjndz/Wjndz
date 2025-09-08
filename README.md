@@ -1,10 +1,14 @@
 <!-- Avatar on the right -->
 <img align="right" width="64" src="https://github.com/Wjndz.png" />
 
-<h2 align="center">Hi 👋, I'm Nguyen Viet Dung (Windz)</h2>
+<h2 align="center">Hi 👋, I'm Nguyen Viet Dung (Dũn)</h2>
 <p align="center">
   <h3 align="center">A backend-focused student developer from Vietnam 🇻🇳</h3>
 </p>
+
+**Goal:** Secure a Backend internship within 3 months and build solid real-world projects
+
+<br />
 
 > Currently studying at **University of Transport and Communications HCMC (UTH)**.  
 > Strong interest in **Backend systems, APIs, and AI integration**, with a mindset of system design and optimization.  
