@@ -1,7 +1,7 @@
 <!-- Avatar on the right -->
 <img align="right" width="64" src="https://github.com/Wjndz.png" />
 
-<h2 align="center">Hi 👋, I'm Nguyen Viet Dung (Dũn)</h2>
+<h2 align="center">Hi 👋, I'm Nguyen Viet Dung (Windz)</h2>
 <p align="center">
   <h3 align="center">A backend-focused student developer from Vietnam 🇻🇳</h3>
 </p>
