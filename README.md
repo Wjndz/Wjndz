@@ -32,7 +32,7 @@
 
 ---
 
-## 🛠️ Skills:
+##  Skills:
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="48" height="48"/> 
   <img src="https://img.icons8.com/color/48/000000/python.png"/>
@@ -44,21 +44,20 @@
 
 ---
 
-## 📌 Projects:
+##  Projects:
 
-###  LETMECOOK (Team Project)
-- **Role:** Built **real-time notifications**, **comment system**, and **report system**  
+### LETMECOOK (Team Project)
+- **Role:** Built real-time notifications, comment system, and report system  
 - **Stack:** Node.js, Socket.IO, SQL  
 
-###  AI Project (Personal)
-- **Role:** Implemented **face & license plate recognition** workflow  
+### AI Project (Personal)
+- **Role:** Implemented face & license plate recognition workflow  
 - **Stack:** Python, OpenCV, TensorFlow  
 
-###  GunDoKai (Team Project)  
-- **Role:** Developed **Order, OrderDetail, and Payment** modules  
+### GunDoKai (Team Project)  
+- **Role:** Developed Order, OrderDetail, and Payment modules  
 - **Stack:** Java Spring Boot, MySQL, NextJS, TailwindCSS  
 - **Integration:** VNPay (QR payment), Cash on Delivery (COD)  
-
 
 ---
 
@@ -80,4 +79,4 @@
 
 ---
 
-** Goal:** Secure an internship within 3 months and complete an AI/Backend project 
+**Goal:** Secure an internship within 3 months.
