@@ -3,11 +3,11 @@
 
 <h2 align="center">Hi 👋, I'm Nguyen Viet Dung (Dũn)</h2>
 <p align="center">
-  <h3 align="center">A passionate backend & AI student developer from Vietnam 🇻🇳</h3>
+  <h3 align="center">A backend-focused student developer from Vietnam 🇻🇳</h3>
 </p>
 
 > Currently studying at **University of Transport and Communications HCMC (UTH)**.  
-> Focused on **Backend & AI projects** with strong interest in system design and optimization.  
+> Strong interest in **Backend systems, APIs, and AI integration**, with a mindset of system design and optimization.  
 
 <br />
 
@@ -32,14 +32,14 @@
 
 ---
 
-## 🛠️ Skills:
+##  Skills:
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="48" height="48"/> 
-  <img src="https://img.icons8.com/color/48/000000/python.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="postman"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="python"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="mysql"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git"/>
+  <img src="https://img.icons8.com/?size=48&id=EPbEfEa7o8CB&format=png" alt="postman"/>
 </p>
 
 ---
@@ -47,15 +47,15 @@
 ##  Projects:
 
 ### [LETMECOOK (Team Project)](https://github.com/Wjndz/LETMECOOKBE)
-- **Role:** Built real-time notifications, comment system, and report system  
+- **My Contribution:** Real-time notifications, Comment system, Report system  
 - **Stack:** Node.js, Socket.IO, SQL  
 
 ### [AI Project (Personal)](https://github.com/Wjndz/face-plate)
-- **Role:** Implemented face & license plate recognition workflow  
+- **My Contribution:** Face & license plate recognition workflow  
 - **Stack:** Python, OpenCV, TensorFlow  
 
 ### [GunDoKai (Team Project)](https://github.com/Hiuth/GunDoKai/tree/Hiuth)  
-- **Role:** Developed Order, OrderDetail, and Payment modules  
+- **My Contribution:** Order, OrderDetail, and Payment modules  
 - **Stack:** Java Spring Boot, MySQL, NextJS, TailwindCSS  
 - **Integration:** VNPay (QR payment), Cash on Delivery (COD)  
 
@@ -79,4 +79,4 @@
 
 ---
 
-**Goal:** Secure an internship within 3 months.
+** Goal:** Secure a Backend internship within 3 months and build solid real-world projects 
