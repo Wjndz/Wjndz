@@ -32,7 +32,7 @@
 
 ---
 
-##  Skills:
+## 🛠️ Skills:
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="48" height="48"/> 
   <img src="https://img.icons8.com/color/48/000000/python.png"/>
@@ -46,15 +46,15 @@
 
 ##  Projects:
 
-### LETMECOOK (Team Project)
+### [LETMECOOK (Team Project)](https://github.com/Wjndz/LETMECOOKBE)
 - **Role:** Built real-time notifications, comment system, and report system  
 - **Stack:** Node.js, Socket.IO, SQL  
 
-### AI Project (Personal)
+### [AI Project (Personal)](https://github.com/Wjndz/face-plate)
 - **Role:** Implemented face & license plate recognition workflow  
 - **Stack:** Python, OpenCV, TensorFlow  
 
-### GunDoKai (Team Project)  
+### [GunDoKai (Team Project)](https://github.com/Hiuth/GunDoKai/tree/Hiuth)  
 - **Role:** Developed Order, OrderDetail, and Payment modules  
 - **Stack:** Java Spring Boot, MySQL, NextJS, TailwindCSS  
 - **Integration:** VNPay (QR payment), Cash on Delivery (COD)  
