@@ -1,19 +1,19 @@
 <!-- Avatar on the right -->
 <img align="right" width="64" src="https://github.com/Wjndz.png" />
 
-<h2 align="center">Hi 👋, I'm Nguyen Viet Dung (Windz)</h2>
-<p align="center">
-  <h3 align="center">A backend-focused student developer from Vietnam 🇻🇳</h3>
-</p>
+# Hi 👋, I'm Nguyen Viet Dung (Windz)  
+### A backend-focused student developer from Vietnam 🇻🇳  
 
-**Goal:** Secure a Backend internship within 3 months and build solid real-world projects
+###  Goal  
+Secure a Backend internship within 3 months and build solid real-world projects.
 
-<br />
-
-> Currently studying at **University of Transport and Communications HCMC (UTH)**.  
-> Strong interest in **Backend systems, APIs, and AI integration**, with a mindset of system design and optimization.  
+###  About Me  
+Final-year student at **University of Transport and Communications HCMC (UTH)**.  
+Strong interest in **Backend systems, APIs, and AI integration**, with a mindset of system design and optimization.  
 
 <br />
+
+
 
 ![](https://komarev.com/ghpvc/?username=Wjndz&style=flat-square)
 
