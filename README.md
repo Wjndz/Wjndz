@@ -81,6 +81,5 @@ Strong interest in **Backend systems, APIs, and AI integration**, with a mindset
   </tr>
 </table>
 
----
 
-** Goal:** Secure a Backend internship within 3 months and build solid real-world projects 
+
