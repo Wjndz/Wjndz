@@ -5,7 +5,7 @@
 ### A backend-focused student developer from Vietnam 🇻🇳  
 
 ###  Goal  
-Secure a Backend internship within 3 months and build solid real-world projects.
+My short-term goal is to secure a Backend internship and gain real-world project experience.
 
 ###  About Me  
 Final-year student at **University of Transport and Communications HCMC (UTH)**.  
