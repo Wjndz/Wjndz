@@ -8,7 +8,7 @@
 My short-term goal is to secure a Backend internship and gain real-world project experience.  
 
 ### About Me  
-Final-year student at **University of Transport and Communications HCMC (UTH)**.  
+Final-year student at **University of Transport Ho Chi Minh City (UTH)**.  
 Strong interest in **Backend systems, APIs, and AI integration**, with a mindset of system design and optimization.  
 
 <br />
